@@ -1,5 +1,5 @@
 //Componente: função que retorna HTML
-//Propriedade: atributo
+//Propriedade: atributo 
 
 import { Widget } from "./components/Widget";
 
